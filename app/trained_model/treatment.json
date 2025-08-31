@@ -1,0 +1,574 @@
+
+{
+    "0": {
+        "crop_disease": "Apple__Apple_scab",
+        "treatments": [
+            "Apply fungicides like myclobutanil or captan at green tip stage",
+            "Prune trees to improve air circulation and sunlight penetration",
+            "Rake and destroy fallen leaves in autumn to reduce spore survival",
+            "Apply urea to fallen leaves to accelerate decomposition of infected tissue",
+            "Use resistant varieties like Liberty, Enterprise, or Pristine",
+            "Apply sulfur or lime-sulfur sprays during dormancy",
+            "Time fungicide applications to protect new growth during wet weather",
+            "Avoid overhead irrigation to keep foliage dry",
+            "Apply fungicides containing fenarimol or triforine",
+            "Use cultural practices like proper spacing and thinning of fruits"
+        ]
+    },
+    "1": {
+        "crop_disease": "Apple_Black_rot",
+        "treatments": [
+            "Prune out and destroy all cankered and dead branches",
+            "Remove mummified fruits from trees and ground",
+            "Apply fungicides containing thiophanate-methyl or captan",
+            "Practice proper sanitation by removing all plant debris",
+            "Apply copper-based sprays during dormancy",
+            "Avoid wounding trees during harvesting and pruning",
+            "Thin fruits to improve air circulation",
+            "Apply fungicides at petal fall and first cover spray",
+            "Use resistant varieties when available",
+            "Apply systemic fungicides like propiconazole for severe infections"
+        ]
+    },
+    "2": {
+        "crop_disease": "Apple_Cedar_apple_rust",
+        "treatments": [
+            "Remove nearby eastern red cedar trees if possible (alternate host)",
+            "Apply fungicides when orange gelatinous structures appear on cedars in spring",
+            "Use fungicides containing myclobutanil or fenarimol",
+            "Apply protective fungicides before infection occurs",
+            "Plant resistant varieties like Liberty, William's Pride, or Freedom",
+            "Apply fungicides at pink bud stage and repeat at 7-10 day intervals",
+            "Use triforine or sulfur-containing fungicides",
+            "Time applications to protect leaves during spore release periods",
+            "Remove galls from cedar trees in winter",
+            "Apply fungicides at green tip through petal fall stages"
+        ]
+    },
+    "3": {
+        "crop_disease": "Apple_healthy",
+        "treatments": [
+            "Maintain proper watering schedule (1-2 inches per week)",
+            "Apply balanced fertilizer in early spring",
+            "Prune annually to maintain good air circulation",
+            "Monitor regularly for early signs of pests or diseases",
+            "Use organic mulch to conserve moisture and suppress weeds",
+            "Practice crop rotation if possible",
+            "Test soil every 2-3 years and amend as needed",
+            "Use dormant oil sprays in late winter to control overwintering pests",
+            "Thin fruits to prevent overcrowding and improve size",
+            "Provide adequate sunlight (at least 6 hours daily)"
+        ]
+    },
+    "4": {
+        "crop_disease": "Blueberry_healthy",
+        "treatments": [
+            "Maintain acidic soil pH (4.5-5.5)",
+            "Apply ammonium sulfate fertilizer in early spring",
+            "Use pine needle or oak leaf mulch to maintain acidity",
+            "Prune older canes to encourage new growth",
+            "Provide consistent moisture, especially during fruit development",
+            "Use bird netting to protect ripe berries",
+            "Apply organic mulch to conserve moisture and suppress weeds",
+            "Test soil annually and amend with sulfur if needed",
+            "Space plants properly for good air circulation",
+            "Remove any diseased or damaged canes promptly"
+        ]
+    },
+    "5": {
+        "crop_disease": "Cherry(including_sour)Powdery_mildew",
+        "treatments": [
+            "Apply sulfur or potassium bicarbonate fungicides",
+            "Use horticultural oil sprays in early season",
+            "Prune to improve air circulation through canopy",
+            "Apply fungicides containing myclobutanil or triflumizole",
+            "Avoid excessive nitrogen fertilization",
+            "Use resistant varieties when available",
+            "Apply fungicides at shuck-split and repeat as needed",
+            "Remove and destroy infected shoots and leaves",
+            "Use bicarbonate sprays (1 tablespoon baking soda per gallon of water)",
+            "Apply neem oil as a preventive treatment"
+        ]
+    },
+    "6": {
+        "crop_disease": "Cherry(including_sour)healthy",
+        "treatments": [
+            "Prune annually to maintain open vase shape",
+            "Apply balanced fertilizer in early spring",
+            "Water deeply during dry periods, especially during fruit development",
+            "Thin fruits if crop is excessively heavy",
+            "Use mulch to conserve moisture and regulate soil temperature",
+            "Protect blossoms from late frost with row covers",
+            "Monitor for pests like cherry fruit fly and aphids",
+            "Apply dormant oil spray in late winter",
+            "Test soil pH and maintain between 6.0-6.5",
+            "Harvest fruits promptly when ripe to avoid attracting pests"
+        ]
+    },
+    "7": {
+        "crop_disease": "Corn(maize)Cercospora_leaf_spot Gray_leaf_spot",
+        "treatments": [
+            "Use resistant hybrids when available",
+            "Practice crop rotation with non-host crops",
+            "Plow under crop debris after harvest to reduce inoculum",
+            "Apply fungicides containing azoxystrobin or pyraclostrobin",
+            "Space plants properly to improve air circulation",
+            "Avoid overhead irrigation to reduce leaf wetness",
+            "Apply fungicides at first sign of disease",
+            "Use tillage practices that bury infected residue",
+            "Time planting to avoid periods of high disease pressure",
+            "Apply chlorothalonil or propiconazole fungicides"
+        ]
+    },
+    "8": {
+        "crop_disease": "Corn(maize)Common_rust",
+        "treatments": [
+            "Plant resistant hybrids adapted to your region",
+            "Apply fungicides containing triazole or strobilurin",
+            "Time planting to avoid peak spore production periods",
+            "Use crop rotation to reduce disease carryover",
+            "Apply sulfur-based fungicides for organic production",
+            "Remove volunteer corn plants that may harbor disease",
+            "Apply fungicides when disease first appears",
+            "Use balanced fertility to avoid excessive nitrogen",
+            "Select early-maturing varieties to escape disease",
+            "Apply fungicides at tasseling stage if disease is present"
+        ]
+    },
+    "9": {
+        "crop_disease": "Corn_(maize)Northern_Leaf_Blight",
+        "treatments": [
+            "Use resistant hybrids with good tolerance",
+            "Plow under crop debris to reduce overwintering inoculum",
+            "Apply fungicides containing propiconazole or azoxystrobin",
+            "Practice crop rotation with non-host crops",
+            "Space plants adequately for good air movement",
+            "Time fungicide applications at first disease detection",
+            "Use tillage to bury infected residue",
+            "Avoid planting in fields with history of severe infection",
+            "Apply chlorothalonil as a protective fungicide",
+            "Use integrated management combining resistance and fungicides"
+        ]
+    },
+    "10": {
+        "crop_disease": "Corn(maize)healthy",
+        "treatments": [
+            "Test soil and maintain pH between 6.0-6.8",
+            "Apply balanced fertilizer based on soil test results",
+            "Use proper plant spacing (8-12 inches between plants)",
+            "Water deeply during drought periods, especially during tasseling",
+            "Control weeds that compete for nutrients and water",
+            "Use crop rotation to maintain soil health",
+            "Side-dress with nitrogen when plants are knee-high",
+            "Monitor for pests like corn borers and earworms",
+            "Harvest at proper maturity for best quality",
+            "Remove plant debris after harvest to reduce disease carryover"
+        ]
+    },
+    "11": {
+        "crop_disease": "Grape_Black_rot",
+        "treatments": [
+            "Apply fungicides containing mancozeb or captan",
+            "Prune vines to improve air circulation and sunlight penetration",
+            "Remove and destroy mummified berries",
+            "Apply fungicides from pre-bloom through berry touch stages",
+            "Use resistant varieties when available",
+            "Time applications to protect during infection periods",
+            "Apply lime sulfur during dormancy",
+            "Remove wild grapes near vineyard that may harbor disease",
+            "Use canopy management to improve spray coverage",
+            "Apply myclobutanil or azoxystrobin for curative action"
+        ]
+    },
+    "12": {
+        "crop_disease": "Grape_Esca(Black_Measles)",
+        "treatments": [
+            "Prune out and destroy infected wood showing tiger-striping",
+            "Protect pruning wounds with fungicidal paint",
+            "Avoid severe pruning that creates large wounds",
+            "Apply thiophanate-methyl as a preventative treatment",
+            "Remove and destroy severely infected vines",
+            "Use balanced fertilization to maintain vine health",
+            "Avoid mechanical injury to trunks and cordons",
+            "Apply boron if deficiency is detected",
+            "Use trunk surgery to remove infected tissue",
+            "Apply sodium tetrathiocarbonate as a soil treatment"
+        ]
+    },
+    "13": {
+        "crop_disease": "Grape__Leaf_blight(Isariopsis_Leaf_Spot)",
+        "treatments": [
+            "Apply copper-based fungicides early in season",
+            "Prune to improve air circulation through canopy",
+            "Remove and destroy infected leaves and canes",
+            "Apply mancozeb or chlorothalonil protectantly",
+            "Avoid overhead irrigation to reduce leaf wetness",
+            "Use resistant varieties when available",
+            "Apply fungicides at 10-14 day intervals during wet weather",
+            "Time applications to protect new growth",
+            "Use canopy management to improve spray penetration",
+            "Apply systemic fungicides for existing infections"
+        ]
+    },
+    "14": {
+        "crop_disease": "Grape__healthy",
+        "treatments": [
+            "Prune annually to maintain proper vine structure",
+            "Train vines on trellis for good air circulation",
+            "Apply balanced fertilizer based on soil test",
+            "Water deeply during drought, especially during berry development",
+            "Use cover crops to improve soil health and prevent erosion",
+            "Monitor for pests like Japanese beetles and leafhoppers",
+            "Test soil pH and maintain between 5.5-6.5",
+            "Thin clusters if necessary to improve fruit quality",
+            "Apply mulch to conserve moisture and suppress weeds",
+            "Harvest at optimal sugar levels for intended use"
+        ]
+    },
+    "15": {
+        "crop_disease": "Orange_Haunglongbing(Citrus_greening)",
+        "treatments": [
+            "Remove and destroy infected trees to prevent spread",
+            "Control Asian citrus psyllid with systemic insecticides",
+            "Use biological controls like Tamarixia radiata wasps",
+            "Apply foliar nutrients to maintain tree health",
+            "Plant new trees from certified disease-free sources",
+            "Use insecticidal soaps or horticultural oils for psyllid control",
+            "Apply antibiotics like streptomycin or oxytetracycline",
+            "Use reflective mulch to deter psyllids",
+            "Monitor regularly for early symptoms",
+            "Implement area-wide management programs"
+        ]
+    },
+    "16": {
+        "crop_disease": "Peach__Bacterial_spot",
+        "treatments": [
+            "Apply copper bactericides during dormancy and before rain events",
+            "Use resistant varieties like Clayton, Scarlet Pearl, or Summer Pearl",
+            "Practice good sanitation by removing fallen leaves and fruit",
+            "Apply streptomycin or oxytetracycline during bloom",
+            "Avoid overhead irrigation to reduce bacterial spread",
+            "Prune to improve air circulation and drying conditions",
+            "Use windbreaks to reduce leaf wounding",
+            "Apply plant defense activators like acibenzolar-S-methyl",
+            "Time copper applications to avoid phytotoxicity",
+            "Use balanced fertility to avoid excessive succulent growth"
+        ]
+    },
+    "17": {
+        "crop_disease": "Peach_healthy",
+        "treatments": [
+            "Prune annually to maintain open center shape",
+            "Thin fruits to 6-8 inches apart for proper size development",
+            "Apply balanced fertilizer in early spring",
+            "Water deeply during dry periods, especially during pit hardening",
+            "Use mulch to conserve moisture and regulate soil temperature",
+            "Protect blossoms from late frost with overhead irrigation or covers",
+            "Monitor for pests like peach tree borers and oriental fruit moths",
+            "Apply dormant oil spray in late winter",
+            "Test soil pH and maintain between 6.0-6.5",
+            "Harvest fruits at proper maturity for best flavor"
+        ]
+    },
+    "18": {
+        "crop_disease": "Pepper,_bell_Bacterial_spot",
+        "treatments": [
+            "Use disease-free seeds and transplants",
+            "Apply copper-based bactericides preventatively",
+            "Practice crop rotation with non-host crops for 2-3 years",
+            "Avoid overhead irrigation to reduce leaf wetness",
+            "Remove and destroy infected plants promptly",
+            "Use resistant varieties when available",
+            "Apply acibenzolar-S-methyl to induce systemic resistance",
+            "Disinfect tools and equipment between uses",
+            "Space plants properly for good air circulation",
+            "Apply streptomycin for severe infections"
+        ]
+    },
+    "19": {
+        "crop_disease": "Pepper,_bell_healthy",
+        "treatments": [
+            "Provide consistent moisture, especially during fruit set",
+            "Use black plastic mulch to warm soil and suppress weeds",
+            "Apply balanced fertilizer with higher phosphorus for fruit production",
+            "Support plants with stakes or cages to prevent breakage",
+            "Harvest peppers regularly to encourage continued production",
+            "Monitor for pests like aphids and pepper weevils",
+            "Use row covers early in season to protect from cold",
+            "Test soil and maintain pH between 6.0-6.8",
+            "Rotate planting locations annually to prevent disease buildup",
+            "Provide afternoon shade in extremely hot climates"
+        ]
+    },
+    "20": {
+        "crop_disease": "Potato_Early_blight",
+        "treatments": [
+            "Apply fungicides containing chlorothalonil or mancozeb",
+            "Use resistant varieties when available",
+            "Practice crop rotation with non-host crops for 3-4 years",
+            "Maintain adequate potassium levels to reduce susceptibility",
+            "Avoid overhead irrigation to reduce leaf wetness",
+            "Remove and destroy infected plant debris after harvest",
+            "Apply fungicides when first spots appear",
+            "Use certified disease-free seed potatoes",
+            "Space plants properly for good air circulation",
+            "Apply organic fungicides like copper or Bacillus subtilis"
+        ]
+    },
+    "21": {
+        "crop_disease": "Potato_Late_blight",
+        "treatments": [
+            "Apply fungicides containing mancozeb or chlorothalonil preventatively",
+            "Use resistant varieties like Defender, Elba, or Kennebec",
+            "Destroy cull piles and volunteer potatoes",
+            "Apply systemic fungicides like mefenoxam for curative action",
+            "Hill potatoes properly to protect tubers from infection",
+            "Time fungicide applications before forecasted wet weather",
+            "Remove and destroy infected plants immediately",
+            "Use certified disease-free seed potatoes",
+            "Avoid overhead irrigation when disease is present",
+            "Apply copper-based fungicides for organic production"
+        ]
+    },
+    "22": {
+        "crop_disease": "Potato_healthy",
+        "treatments": [
+            "Hill soil around plants as they grow to protect tubers from sunlight",
+            "Provide consistent moisture, especially during tuber formation",
+            "Use certified disease-free seed potatoes",
+            "Practice crop rotation with non-host crops",
+            "Test soil and maintain pH between 5.0-6.0",
+            "Apply balanced fertilizer with higher potassium",
+            "Control weeds that compete for nutrients",
+            "Harvest after vines die back for best storage quality",
+            "Cure potatoes at 50-60°F for 2 weeks before storage",
+            "Store potatoes in cool, dark, well-ventilated conditions"
+        ]
+    },
+    "23": {
+        "crop_disease": "Raspberry_healthy",
+        "treatments": [
+            "Prune canes annually, removing fruited canes after harvest",
+            "Train canes on trellis for good air circulation",
+            "Apply balanced fertilizer in early spring",
+            "Mulch with organic material to conserve moisture and suppress weeds",
+            "Water deeply during dry periods, especially during fruit development",
+            "Thin canes to 4-6 strongest per foot of row",
+            "Monitor for pests like Japanese beetles and spider mites",
+            "Remove and destroy any diseased canes promptly",
+            "Test soil pH and maintain between 5.5-6.5",
+            "Harvest berries frequently when ripe to avoid spoilage"
+        ]
+    },
+    "24": {
+        "crop_disease": "Soybean_healthy",
+        "treatments": [
+            "Inoculate seeds with proper rhizobium bacteria for nitrogen fixation",
+            "Test soil and maintain pH between 6.0-6.5",
+            "Use proper planting depth (1-1.5 inches) in moist soil",
+            "Practice crop rotation with non-legume crops",
+            "Control weeds early to prevent competition",
+            "Use balanced fertilizer based on soil test results",
+            "Monitor for pests like soybean cyst nematode",
+            "Irrigate during critical growth stages if rainfall is insufficient",
+            "Choose varieties adapted to your region and day length",
+            "Harvest when pods are mature but before shattering occurs"
+        ]
+    },
+    "25": {
+        "crop_disease": "Squash_Powdery_mildew",
+        "treatments": [
+            "Apply fungicides containing myclobutanil or triflumizole",
+            "Use resistant varieties when available",
+            "Space plants properly for good air circulation",
+            "Apply sulfur or potassium bicarbonate sprays",
+            "Avoid overhead irrigation to reduce humidity",
+            "Remove severely infected leaves to reduce spore production",
+            "Apply neem oil or horticultural oil sprays",
+            "Use baking soda spray (1 tablespoon per gallon of water)",
+            "Time fungicide applications at first sign of disease",
+            "Apply milk spray (40% milk to 60% water) as fungicide"
+        ]
+    },
+    "26": {
+        "crop_disease": "Strawberry_Leaf_scorch",
+        "treatments": [
+            "Apply fungicides containing captan or thiram",
+            "Use resistant varieties like Allstar, Earliglow, or Jewel",
+            "Remove and destroy infected leaves",
+            "Practice crop rotation every 3-4 years",
+            "Improve air circulation by proper spacing and weed control",
+            "Apply copper-based fungicides during dormancy",
+            "Avoid overhead irrigation to reduce leaf wetness",
+            "Renovate beds after harvest by mowing and thinning",
+            "Apply mulch to prevent soil splashing onto leaves",
+            "Use drip irrigation instead of overhead watering"
+        ]
+    },
+    "27": {
+        "crop_disease": "Strawberry_healthy",
+        "treatments": [
+            "Renovate beds annually after harvest by mowing and thinning",
+            "Apply balanced fertilizer after renovation and again in fall",
+            "Use mulch to conserve moisture, suppress weeds, and keep fruits clean",
+            "Water consistently, especially during fruit development",
+            "Protect blossoms from late frost with row covers",
+            "Control weeds that compete for nutrients and water",
+            "Monitor for pests like spider mites and slugs",
+            "Replace plants every 3-4 years for maximum productivity",
+            "Test soil pH and maintain between 5.5-6.5",
+            "Harvest berries frequently when fully ripe"
+        ]
+    },
+    "28": {
+        "crop_disease": "Tomato_Bacterial_spot",
+        "treatments": [
+            "Use disease-free seeds and transplants",
+            "Apply copper-based bactericides preventatively",
+            "Practice crop rotation with non-host crops for 2-3 years",
+            "Avoid overhead irrigation to reduce leaf wetness",
+            "Remove and destroy infected plants promptly",
+            "Use resistant varieties when available",
+            "Apply acibenzolar-S-methyl to induce systemic resistance",
+            "Disinfect tools and equipment with bleach solution",
+            "Space plants properly for good air circulation",
+            "Apply streptomycin or oxytetracycline for severe infections"
+        ]
+    },
+    "29": {
+        "crop_disease": "Tomato_Early_blight",
+        "treatments": [
+            "Apply fungicides containing chlorothalonil or mancozeb",
+            "Remove and destroy lower leaves as plant grows",
+            "Stake or cage plants to improve air circulation",
+            "Practice crop rotation with non-host crops",
+            "Apply mulch to prevent soil splashing onto leaves",
+            "Use resistant varieties when available",
+            "Apply copper-based fungicides for organic production",
+            "Time fungicide applications before disease appears",
+            "Remove and destroy infected plant debris after harvest",
+            "Avoid overhead irrigation to reduce leaf wetness"
+        ]
+    },
+    "30": {
+        "crop_disease": "Tomato_Late_blight",
+        "treatments": [
+            "Apply fungicides containing chlorothalonil or mancozeb preventatively",
+            "Remove and destroy infected plants immediately",
+            "Use resistant varieties like Legend, Mountain Merit, or Defiant",
+            "Stake plants to improve air circulation and reduce humidity",
+            "Apply copper-based fungicides for organic production",
+            "Time fungicide applications before forecasted wet weather",
+            "Avoid overhead irrigation when disease is present",
+            "Destroy volunteer tomato and potato plants",
+            "Apply systemic fungicides like famoxadone + cymoxanil",
+            "Use crop rotation with non-host crops for 3-4 years"
+        ]
+    },
+    "31": {
+        "crop_disease": "Tomato_Leaf_Mold",
+        "treatments": [
+            "Reduce humidity through proper spacing and ventilation",
+            "Apply fungicides containing chlorothalonil or mancozeb",
+            "Use resistant varieties like Bush Beefsteak or Valley Girl",
+            "Water at base of plants to avoid wetting foliage",
+            "Remove and destroy infected leaves promptly",
+            "Improve air circulation by staking and pruning",
+            "Apply copper-based fungicides preventatively",
+            "Disinfect greenhouse structures between seasons",
+            "Time fungicide applications at first sign of disease",
+            "Use calcium chloride sprays to suppress spore germination"
+        ]
+    },
+    "32": {
+        "crop_disease": "Tomato_Septoria_leaf_spot",
+        "treatments": [
+            "Apply fungicides containing chlorothalonil or mancozeb",
+            "Remove and destroy infected lower leaves",
+            "Apply mulch to prevent soil splashing onto leaves",
+            "Practice crop rotation with non-host crops for 3 years",
+            "Stake plants to improve air circulation",
+            "Avoid overhead irrigation to reduce leaf wetness",
+            "Use resistant varieties when available",
+            "Apply copper-based fungicides for organic production",
+            "Time fungicide applications at first sign of disease",
+            "Remove and destroy all plant debris after harvest"
+        ]
+    },
+    "33": {
+        "crop_disease": "Tomato_Spider_mites Two-spotted_spider_mite",
+        "treatments": [
+            "Apply miticides like abamectin or bifenazate",
+            "Use horticultural oil or insecticidal soap sprays",
+            "Release predatory mites (Phytoseiulus persimilis)",
+            "Spray plants with strong water jet to dislodge mites",
+            "Avoid broad-spectrum insecticides that kill natural enemies",
+            "Increase humidity around plants by misting",
+            "Remove severely infested leaves and dispose of them",
+            "Apply neem oil to disrupt mite life cycle",
+            "Use sulfur dust or sprays (check temperature restrictions)",
+            "Apply botanical insecticides like rosemary extract"
+        ]
+    },
+    "34": {
+        "crop_disease": "Tomato_Target_Spot",
+        "treatments": [
+            "Apply fungicides containing chlorothalonil or azoxystrobin",
+            "Remove and destroy infected leaves and fruits",
+            "Stake plants to improve air circulation",
+            "Practice crop rotation with non-host crops",
+            "Apply mulch to prevent soil splashing onto plants",
+            "Use resistant varieties when available",
+            "Avoid overhead irrigation to reduce leaf wetness",
+            "Time fungicide applications at first sign of disease",
+            "Apply copper-based fungicides preventatively",
+            "Remove all plant debris after harvest"
+        ]
+    },
+    "35": {
+        "crop_disease": "Tomato_Tomato_Yellow_Leaf_Curl_Virus",
+        "treatments": [
+            "Control whitefly vectors with insecticides like imidacloprid",
+            "Use resistant varieties like Tycoon, Security, or Talladega",
+            "Remove and destroy infected plants promptly",
+            "Use reflective mulches to repel whiteflies",
+            "Apply horticultural oils to disrupt whitefly feeding",
+            "Use row covers to exclude whiteflies from plants",
+            "Remove weed hosts that may harbor whiteflies or virus",
+            "Apply systemic insecticides for whitefly control",
+            "Time plantings to avoid peak whitefly populations",
+            "Use yellow sticky traps to monitor whitefly activity"
+        ]
+    },
+    "36": {
+        "crop_disease": "Tomato_Tomato_mosaic_virus",
+        "treatments": [
+            "Use virus-free seeds and transplants",
+            "Disinfect tools with bleach solution between plants",
+            "Control aphid vectors with insecticides or reflective mulches",
+            "Remove and destroy infected plants immediately",
+            "Wash hands thoroughly before handling plants",
+            "Use resistant varieties like Celebrity, Better Boy, or Big Beef",
+            "Remove weed hosts that may harbor the virus",
+            "Avoid smoking around tomatoes (tobacco can carry virus)",
+            "Rogue out infected plants as soon as symptoms appear",
+            "Use crop rotation to reduce virus carryover"
+        ]
+    },
+    "37": {
+        "crop_disease": "Tomato__healthy",
+        "treatments": [
+            "Stake or cage plants for better air circulation and fruit quality",
+            "Apply balanced fertilizer with higher phosphorus for fruit production",
+            "Water consistently to prevent blossom end rot",
+            "Mulch to conserve moisture and suppress weeds",
+            "Prune suckers for determinate varieties to improve air flow",
+            "Monitor for common pests like hornworms and aphids",
+            "Test soil and maintain pH between 6.0-6.8",
+            "Rotate planting locations annually to prevent disease buildup",
+            "Harvest fruits regularly to encourage continued production",
+            "Provide afternoon shade in extremely hot climates"
+        ]
+
+    }
+}
